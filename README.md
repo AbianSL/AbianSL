@@ -25,7 +25,7 @@ I like to learn many different programming language.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AbianSL&theme=tokyonight&hide_border=true&border_radius=6&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AbianSL&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AbianSL&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbianSL&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbianSL&hide_progress=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
