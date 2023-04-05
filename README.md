@@ -7,7 +7,7 @@ I like to learn many different programming language.
 
 ## 📖 Learning
 
-- I know c++ and HTM
+- I know c++ and HTML
 - Learning c and Kotlin
 
 ---
@@ -23,4 +23,4 @@ I like to learn many different programming language.
 
 ## 📈 My Stats:
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbianSL&theme=tokyonight&hide_border=true&border_radius=6&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
