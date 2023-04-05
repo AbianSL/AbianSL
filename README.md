@@ -5,10 +5,22 @@ I like to learn many different programming language.
 
 ---
 
-# 📖 Learning
+## 📖 Learning
 
-- I know c++, and learning c and Kotlin
+- I know c++ and HTM
+- Learning c and Kotlin
 
 ---
 
-languaes and tools
+## 🧰 languages and tools:
+
+<div class="Icons" align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="C++" width="50" height="50">
+</div>
+
+---
+
+## 📈 My Stats:
+
+
