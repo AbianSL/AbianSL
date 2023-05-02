@@ -27,5 +27,5 @@ I like to learn many different programming language.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AbianSL&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbianSL&hide_progress=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbianSL&exclude_rep=Exercism_Problems&hide_progress=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
