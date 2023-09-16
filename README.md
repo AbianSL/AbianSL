@@ -7,7 +7,7 @@ I like to learn many different programming language.
 
 ## 📖 Learning
 
-- I know c++, HTML and python
+- I know c++, HTML, python and bash
 - Learning c, Kotlin and java
 
 ---
@@ -15,9 +15,10 @@ I like to learn many different programming language.
 ## 🧰 languages and tools:
 
 <div class="Icons" align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="50px" height="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="50px" height="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50px" height="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash" width="50px" height="50px">
 </div>
 
 ---
