@@ -8,7 +8,7 @@ I like to learn many different programming language.
 ## 📖 Learning
 
 - I know c++, HTML, python and bash
-- Learning c, Kotlin and java
+- Learning c, Kotlin, java and ruby
 
 ---
 
