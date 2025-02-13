@@ -7,9 +7,17 @@ I like to learn many different programming language.
 
 ## 📖 Learning
 
-- I know c++, HTML, python and bash
-- Learning c, Kotlin, java and ruby
+- I know
+    - C++
+    - Python
+    - Ruby
+    - Bash
+    - HTML
 
+- Learning
+    - JavaScript
+    - TypeScript
+    - Lua
 ---
 
 ## 🧰 languages and tools:
@@ -21,6 +29,16 @@ I like to learn many different programming language.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash" width="50px" height="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JA" width="50px" height=50px">
 </div>
+
+---
+
+## 🎮 Hobby
+
+1. I like to play video games
+2. I like to learn about IA
+3. I like to play board games
+4. I like to read manga and comics
+5. I like to watch anime and series
 
 ---
 
