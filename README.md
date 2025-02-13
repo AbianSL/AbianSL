@@ -34,7 +34,7 @@ I like to learn many different programming language.
 
 ## 📂 Highlight Projects
 
-<a href="https://github.com/AbianSL/auralize"
+<a href="https://github.com/AbianSL/auralize">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbianSL&repo=auralize&theme=tokyonight">
 </a>
 
