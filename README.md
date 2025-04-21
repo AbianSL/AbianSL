@@ -42,11 +42,11 @@ I like to learn many different programming language.
 
 ## 🎮 Hobby
 
-1. I like to play video games
-2. I like to learn about AI
-3. I like to play board games
-4. I like to read manga and comics
-5. I like to watch anime and series
+1. Play video games
+2. Learn about AI
+3. Play board games
+4. Read manga and comics
+5. Watch anime and series
 
 ---
 
