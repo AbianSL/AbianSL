@@ -1,6 +1,6 @@
 # 👋😀 Hi! I'm Abian
 
-I'm actually study at the university of "La Laguna",
+I'm currently studying at the university of "La Laguna",
 I like to learn many different programming language.
 
 ---
