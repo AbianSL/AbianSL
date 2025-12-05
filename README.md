@@ -13,10 +13,10 @@ I like to learn many different programming language.
     - Ruby
     - Bash
     - HTML
-
-- Learning
     - JavaScript
     - TypeScript
+
+- Learning
     - Lua
 ---
 
@@ -28,6 +28,7 @@ I like to learn many different programming language.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50px" height="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash" width="50px" height="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JA" width="50px" height=50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TS" width="50px" height=50px">
 </div>
 
 ---
