@@ -35,6 +35,7 @@ I like to learn many different programming language.
 
 ## 📂 Highlight Projects
 
+
 <a href="https://github.com/AbianSL/auralize">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbianSL&repo=auralize&theme=tokyonight">
 </a>
@@ -57,5 +58,5 @@ I like to learn many different programming language.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AbianSL&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbianSL&exclude_repo=Exercism_Problems&hide_progress=false&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=AbianSL&exclude_repo=Exercism_Problems,Unity-ar,Unity-cam-mic,Unity-Cardboard,Unity-Events,Unity-II,Unity-Physics,Unity-Scripts,Unity-sensor,Unity-speak,Unity-xr&hide_progress=false&theme=tokyonight&hide=)
 
